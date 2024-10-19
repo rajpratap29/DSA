@@ -13,7 +13,7 @@ int main(){
     for(int i = 0; i < n; i++){
         sum = sum * arr[i];
     }
-    cout<<"The addition of elements of array is: "<<sum;
+    cout<<"The product of elements of array is: "<<sum;
 
     return 0;
 }
