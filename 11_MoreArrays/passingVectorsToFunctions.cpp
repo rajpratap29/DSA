@@ -1,4 +1,5 @@
 #include<iostream>
+#include<vector>
 using namespace std;
 void change(vector<int> &a){ 
     // it creates copy of vector and does not change in real vector
