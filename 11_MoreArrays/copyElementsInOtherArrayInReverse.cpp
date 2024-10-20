@@ -1,5 +1,10 @@
 #include<iostream>
 using namespace std;
+void display(vector<int> v){
+    for(int i = 0; i < v.size(); i++){
+        cout<<v[i]<<" ";
+    }
+}
 int main(){
     vector<int> v1;
     v1.push_back(1);
@@ -16,13 +21,8 @@ int main(){
         temp++;
     }
     cout<<"Values in first vector: ";
-    for(int i = 0; i < v1.size(); i++){
-        cout<<v1[i]<<" ";
-    }
+    display(v1);
     cout<<endl<<"Values in second vector: ";
-    for(int i = 0; i < v2.size(); i++){
-        cout<<v2[i]<<" ";
-    }
-
+    display(v2);
     return 0;
 }
