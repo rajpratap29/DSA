@@ -13,7 +13,7 @@ int main(){
     int value;
     int found;
     bool flag = false;
-    cout<<"Enter to value you want to check at which position last appeared: ";
+    cout<<"Enter the value you want to check at which position last appeared: ";
     cin>>value;
     for(int i = 0; i < v.size(); i++){
         if(value == v[i]){
