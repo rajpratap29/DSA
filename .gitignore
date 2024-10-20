@@ -1,13 +1,1 @@
 .vscode
-# Ignore C++ compiled binary files
-a.out
-*.out
-*.o
-
-# Ignore other executable files without extensions
-main
-program_name  # Add any specific binary names if you have custom output names
-
-# Optional: Ignore debug or build directories if you use them
-/build/
-/debug/
