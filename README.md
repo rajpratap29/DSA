@@ -14,8 +14,8 @@ I am consistently practicing DSA concepts by solving problems and uploading my c
 
 ## Do Checkout My Leetcode And Linkedin
 
-https://leetcode.com/u/rajpratap29/
-https://www.linkedin.com/in/rajpratap29/
+1. [Leetcode](https://leetcode.com/u/rajpratap29/)
+2. [LinkedIn](https://www.linkedin.com/in/rajpratap29/)
 
 ## Follow My Journey
 
